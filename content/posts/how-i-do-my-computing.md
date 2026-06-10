@@ -3,9 +3,7 @@ date = '2026-06-10T14:09:04-06:00'
 draft = false
 title = 'how i do my computing'
 +++
-# Cómo uso mis computadora
-
-*Junio 2026 / June 2026*
+# Cómo uso mi computadora
 
 ---
 
