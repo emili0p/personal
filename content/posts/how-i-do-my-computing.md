@@ -19,12 +19,12 @@ Mi computadora principal ejecuta Arch Linux con KDE Plasma. Es el sistema donde 
 
 Especificaciones
 
-Intel Core i5-7500
-16 GB RAM
-NVIDIA GTX 1650
-SSD NVMe Samsung de 256 GB
-Dos discos duros adicionales para un almacenamiento total de 2.1 tbs
-Monitor 1080p a 100 Hz
+* Intel Core i5-7500
+* 16 GB RAM
+* NVIDIA GTX 1650
+* SSD NVMe Samsung de 256 GB
+* Dos discos duros adicionales para un almacenamiento total de 2.1 tbs
+* Monitor 1080p a 100 Hz
 
 #### Laptop
 
