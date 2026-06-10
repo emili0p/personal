@@ -1,4 +1,4 @@
-baseURL = 'https://emili0p.xyz/'
+baseURL = 'baseURL = "https://emili0p.github.io/blog/"'
 languageCode = 'es-mx'
 title = 'emili0p'
 theme = 'terminal'
